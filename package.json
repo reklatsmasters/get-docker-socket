@@ -1,0 +1,19 @@
+{
+  "name": "get-docker-socket",
+  "version": "0.0.0",
+  "description": "A cross-platform way to get path to docker socket",
+  "main": "index.js",
+  "repository": "reklatsmasters/get-docker-socket",
+  "author": "Dmitry Tsvettsikh <me@reklatsmasters.com>",
+  "license": "MIT",
+  "dependencies": {
+    "is-os": "^1.0.0"
+  },
+  "keywords": [
+    "docker",
+    "container"
+  ],
+  "devDependencies": {
+    "dockerode": "^2.3.1"
+  }
+}
