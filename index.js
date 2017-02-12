@@ -1,6 +1,6 @@
 'use strict'
 
-const os = require('is-os')
+var os = require('is-os')
 
 module.exports = socket
 
