@@ -1,6 +1,6 @@
 {
   "name": "get-docker-socket",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A cross-platform way to get path to docker socket",
   "main": "index.js",
   "repository": "reklatsmasters/get-docker-socket",
